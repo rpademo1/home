@@ -1,0 +1,18 @@
+@media all and (min-width: 480px) {
+  .WelcomePage {
+    padding: 60px 0;
+    
+  }
+
+  .WelcomePage form {
+    margin: 0 auto;
+    max-width: 320px;
+    font-weight: 500;
+    position: relative;
+  }
+
+  .copy {
+  	position: element(WelcomePage);
+    transform: translateY(-100%);
+  }
+}
