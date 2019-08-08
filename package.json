@@ -1,7 +1,7 @@
 {
-  "name": "rpa-demo",
+  "name": "rpa",
   "version": "1.0.0",
-  "description": "rpa-demo-web",
+  "description": "rpa-web",
   "author": "MDBootstrap",
   "license": "MIT",
   "private": true,
